@@ -29,3 +29,7 @@
 <br />
 <br />
 <br />
+
+<h1 align="center">Stats</h1>
+<img width="40%" align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=daebert" />
+<img width="40%" align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=daebert&show_icons=true&theme=flag-india" />
