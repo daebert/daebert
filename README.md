@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Lara!</h1>
+<h1 align="center">Hi there 👋 I'm Daniel!</h1>
 <br />
 <ul>
   <li>🔭 I’m currently working on <a href="https://github.com/daebert/courseselect100">CourseSelect</a></li>
